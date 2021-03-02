@@ -1,3 +1,4 @@
+# Amin Shoari Nejad
 rm(list = ls())
 library(DiceOptim)
 library(ggplot2)
